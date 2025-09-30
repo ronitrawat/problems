@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ronitrawat/problems/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ronitrawat/problems/tree/master/0054-spiral-matrix) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
