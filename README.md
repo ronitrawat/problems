@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ronitrawat/problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/ronitrawat/problems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/ronitrawat/problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ronitrawat/problems/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ronitrawat/problems/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/ronitrawat/problems/tree/master/0485-max-consecutive-ones) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ronitrawat/problems/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/ronitrawat/problems/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
