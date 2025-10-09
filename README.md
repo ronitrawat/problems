@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ronitrawat/problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ronitrawat/problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/ronitrawat/problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ronitrawat/problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/ronitrawat/problems/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/ronitrawat/problems/tree/master/0189-rotate-array) |
@@ -59,8 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ronitrawat/problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ronitrawat/problems/tree/master/0128-longest-consecutive-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/ronitrawat/problems/tree/master/0152-maximum-product-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ronitrawat/problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
