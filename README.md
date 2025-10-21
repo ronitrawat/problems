@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ronitrawat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ronitrawat/problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ronitrawat/problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
