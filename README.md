@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ronitrawat/problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronitrawat/problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ronitrawat/problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ronitrawat/problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ronitrawat/problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ronitrawat/problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/ronitrawat/problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ronitrawat/problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
