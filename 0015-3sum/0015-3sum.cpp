@@ -1,38 +1,40 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
         vector<vector<int>> ans;
-        int n = nums.size();
+        sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n - 2; i++) {
-            if (i > 0 && nums[i] == nums[i - 1]) continue; // skip duplicate i
+        for(int i = 0; i < nums.size(); i++) {
 
-            int j = i + 1;
-            int k = n - 1;
+            if(i > 0 && nums[i] == nums[i - 1]) continue;  // skip duplicate i
 
-            while (j < k) {
-                int sum = nums[i] + nums[j] + nums[k];
+            int target = -nums[i];
+            int low = i + 1;
+            int high = nums.size() - 1;
 
-                if (sum == 0) {
-                    ans.push_back({nums[i], nums[j], nums[k]});
-                    j++;
-                    k--;
+            while(low < high) {
+                int sum = nums[low] + nums[high];
 
-                    // \U0001f539 Skip duplicate j’s
-                    while (j < k && nums[j] == nums[j - 1]) j++;
-                    // \U0001f539 Skip duplicate k’s
-                    while (j < k && nums[k] == nums[k + 1]) k--;
+                if(sum == target) {
+                    ans.push_back({nums[i], nums[low], nums[high]});
+                    low++;
+                    high--;
+
+                    // skip duplicates for low
+                    while(low < high && nums[low] == nums[low - 1]) low++;
+
+                    // skip duplicates for high
+                    while(low < high && nums[high] == nums[high + 1]) high--;
+
                 }
-                else if (sum < 0) {
-                    j++; // need bigger sum
-                } 
+                else if(sum > target) {
+                    high--;
+                }
                 else {
-                    k--; // need smaller sum
+                    low++;
                 }
             }
         }
-
         return ans;
     }
 };
