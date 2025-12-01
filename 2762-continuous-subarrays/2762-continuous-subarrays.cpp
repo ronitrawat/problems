@@ -4,38 +4,35 @@ class Solution {
 public:
     long long continuousSubarrays(vector<int>& nums) {
         long long count = 0;
-        int l=0;
-        int r=0;
-        int j=0;
-    
-    for (int i=0;i<nums.size();i++){
-        if(i==0){
-            count++;
-            l=nums[i]-2;
-            r=nums[i]+2;
+      deque<int> minQ,maxQ;
+      int low=0;
 
+      for (int high=0;high<nums.size();high++){
+
+       while (!maxQ.empty() && maxQ.back()<nums[high]){
+        maxQ.pop_back();
+
+       }
+       maxQ.push_back(nums[high]);
+
+         while (!minQ.empty() && minQ.back()>nums[high]){
+        minQ.pop_back();
+
+       }
+       minQ.push_back(nums[high]);
+
+
+       while(maxQ.front()-minQ.front()>2){
+        if(nums[low]==minQ.front()){
+            minQ.pop_front();
         }
-        else if(nums[i]>=l && nums[i]<=r){
-            l=max(l,nums[i]-2);
-            r=min(r,nums[i]+2);
-            count+=i-j+1;
+        if(nums[low]==maxQ.front()){
+            maxQ.pop_front();
         }
-        else{
-            l=nums[i]-2;
-            r=nums[i]+2;
-            j=i-1;
-            while(nums[j]>=nums[i]-2 && nums[j]<=nums[i]+2){
-                 l=max(l,nums[j]-2);
-            r=min(r,nums[j]+2);
-            j--;
-
-            }j++;
-            count+=i-j+1;
-        }
-
-
-
-    }
+        low++;
+       }
+count+=high-low+1;
+      }
     return count;
     }
 
