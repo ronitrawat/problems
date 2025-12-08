@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ronitrawat/problems/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ronitrawat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ronitrawat/problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ronitrawat/problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ronitrawat/problems/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Queue
 |  |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
