@@ -1,0 +1,27 @@
+class Solution {
+public:
+    string removeDuplicates(string s, int k) {
+        string ans="";
+        vector<pair<char,int>> st;
+        
+        for(char c : s){
+            if(!st.empty() && st.back().first==c){
+                st.back().second++;
+            }
+            else{
+                st.push_back({c,1});
+            }
+            if(st.back().second==k){
+                st.pop_back();
+            }
+
+        }
+        for(auto & p:st){
+            ans.append(p.second,p.first);
+        
+
+        }
+        return ans;
+
+    }
+};
