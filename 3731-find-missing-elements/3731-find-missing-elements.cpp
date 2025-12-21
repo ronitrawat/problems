@@ -4,9 +4,8 @@ public:
         int mi=*min_element(nums.begin(),nums.end());
         int ma=*max_element(nums.begin(),nums.end());
         vector<int> ans;
-        unordered_set<int> a(nums.begin(),nums.end());
         for(int i=mi;i<=ma;i++){
-            if(a.find(i)==a.end()){
+            if(find(nums.begin(),nums.end(),i)==nums.end()){
                 ans.push_back(i);
             }
         }
