@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
+| [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronitrawat/problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ronitrawat/problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [3731-find-missing-elements](https://github.com/ronitrawat/problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ronitrawat/problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ronitrawat/problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/ronitrawat/problems/tree/master/0443-string-compression) |
+| [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/ronitrawat/problems/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronitrawat/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ronitrawat/problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
