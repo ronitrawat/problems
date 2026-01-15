@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/ronitrawat/problems/tree/master/0917-reverse-only-letters) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronitrawat/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ronitrawat/problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ronitrawat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ronitrawat/problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ronitrawat/problems/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/ronitrawat/problems/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Ordered Set
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ronitrawat/problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ronitrawat/problems/tree/master/0234-palindrome-linked-list) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronitrawat/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ronitrawat/problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
