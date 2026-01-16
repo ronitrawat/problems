@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
+| [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
+| [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [3731-find-missing-elements](https://github.com/ronitrawat/problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ronitrawat/problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ronitrawat/problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ronitrawat/problems/tree/master/0234-palindrome-linked-list) |
+| [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ronitrawat/problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ronitrawat/problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2104-sum-of-subarray-ranges](https://github.com/ronitrawat/problems/tree/master/2104-sum-of-subarray-ranges) |
