@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/ronitrawat/problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/ronitrawat/problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronitrawat/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ronitrawat/problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ronitrawat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/ronitrawat/problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronitrawat/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ronitrawat/problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
