@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ronitrawat/problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ronitrawat/problems/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ronitrawat/problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ronitrawat/problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ronitrawat/problems/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/ronitrawat/problems/tree/master/0680-valid-palindrome-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ronitrawat/problems/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/ronitrawat/problems/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/ronitrawat/problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Ordered Set
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/ronitrawat/problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ronitrawat/problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ronitrawat/problems/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ronitrawat/problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ronitrawat/problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
