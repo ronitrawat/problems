@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/ronitrawat/problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ronitrawat/problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ronitrawat/problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ronitrawat/problems/tree/master/0198-house-robber) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Union Find
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronitrawat/problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/ronitrawat/problems/tree/master/0649-dota2-senate) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
 |  |
