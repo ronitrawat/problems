@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1472-design-browser-history](https://github.com/ronitrawat/problems/tree/master/1472-design-browser-history) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ronitrawat/problems/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/ronitrawat/problems/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ronitrawat/problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ronitrawat/problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [3731-find-missing-elements](https://github.com/ronitrawat/problems/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronitrawat/problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0649-dota2-senate](https://github.com/ronitrawat/problems/tree/master/0649-dota2-senate) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Heap (Priority Queue)
