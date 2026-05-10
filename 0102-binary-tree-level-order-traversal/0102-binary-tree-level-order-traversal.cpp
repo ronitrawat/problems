@@ -20,31 +20,24 @@ public:
             return ;
         }
         q.push(root);
-        q.push(NULL);
+        
         vector<int> a;
         while(!q.empty()){
+            int k=q.size();
+            for(int i=1;i<=k;i++){
             TreeNode* ele=q.front();
             q.pop();
-            if(ele==NULL){
-                if(q.empty()){
-                ans.push_back(a);
-                a.clear();
-                 break;
-                }
-                else{
-                ans.push_back(a);
-                a.clear();
-                q.push(NULL);}
-
-            }
-            else{
-                a.push_back(ele->val);
+            a.push_back(ele->val);
                 if(ele->left!=NULL){
                 q.push(ele->left);}
                 if(ele->right!=NULL){
                 q.push(ele->right);}
 
             }
+            ans.push_back(a);
+            a.clear();
+            
+           
         }
     }
     vector<vector<int>> levelOrder(TreeNode* root) {
