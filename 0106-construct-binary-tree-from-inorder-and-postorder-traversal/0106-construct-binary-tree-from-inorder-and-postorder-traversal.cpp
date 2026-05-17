@@ -19,7 +19,7 @@ public:
     }
 
     
-    TreeNode* solve(vector<int> inorder,vector<int> postorder,int& postorderIndex,int inorderStart,int inorderEnd ){
+    TreeNode* solve(vector<int>& inorder,vector<int>& postorder,int& postorderIndex,int inorderStart,int inorderEnd ){
       
     if(postorderIndex<0){
         return NULL;
