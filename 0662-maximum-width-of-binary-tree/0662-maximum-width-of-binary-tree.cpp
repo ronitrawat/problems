@@ -15,41 +15,42 @@ public:
 
         while(!q.empty()) {
 
-            int size = q.size();
+            int s = q.size();
 
             long long mini = q.front().second;
 
             long long first, last;
 
-            for(int i = 0; i < size; i++) {
+            for(int i = 0; i < s; i++) {
 
                 auto temp = q.front();
                 q.pop();
 
                 TreeNode* node = temp.first;
 
-                long long index = temp.second - mini;
+                
+                long long hd = temp.second - mini;
 
                 if(i == 0) {
-                    first = index;
+                    first = hd;
                 }
 
-                if(i == size-1) {
-                    last = index;
+                if(i == s-1) {
+                    last = hd;
                 }
 
                 if(node->left) {
-                    q.push({node->left, 2*index + 1});
+                    q.push({node->left, 2*hd + 1});
                 }
 
                 if(node->right) {
-                    q.push({node->right, 2*index + 2});
+                    q.push({node->right, 2*hd + 2});
                 }
             }
 
             ans = max(ans, last - first + 1);
         }
 
-        return ans;
+        return (int)ans;
     }
 };
