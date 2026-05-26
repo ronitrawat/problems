@@ -12,34 +12,21 @@
 class Solution {
 public:
 vector<TreeNode*> a;
-    void preorder(TreeNode* root){
-        if(root==NULL){
-            return;
-
-        }
-        a.push_back(root);
-       
-        preorder(root->left);
-        preorder(root->right);
-
-        
-    }
-    void flatten(TreeNode* root) {
-      if(!root){
-        return; }
-      preorder(root);
-
-      for(int i = 0; i < a.size()-1; i++){
-
-            a[i]->left = NULL;
-
-            a[i]->right = a[i+1];
-        }
-
-        a[a.size()-1]->left = NULL;
-
-        a[a.size()-1]->right = NULL;
     
+    void flatten(TreeNode* root) {
+      TreeNode* curr=root;
+      while(curr){
+        if(curr->left){
+            TreeNode* ip=curr->left;
+            while(ip->right){
+                ip=ip->right;
+            }
+            ip->right=curr->right;
+            curr->right=curr->left;
+            curr->left=NULL;
+        }
+        curr=curr->right;
+      }
       
     }
 };
