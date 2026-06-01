@@ -1,48 +1,39 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class BSTIterator {
 public:
-    stack<TreeNode* > s;
-    void reverseInorder(TreeNode* root){
-        if(root==NULL){
-            return ;
+
+    stack<TreeNode*> s;
+
+    void pushLeft(TreeNode* root){
+
+        while(root){
+
+            s.push(root);
+
+            root = root->left;
         }
-        reverseInorder(root->right);
-        s.push(root);
-        reverseInorder(root->left);
     }
+
     BSTIterator(TreeNode* root) {
-        reverseInorder(root);
-        
+
+        pushLeft(root);
     }
-    
+
     int next() {
-        int ans;
-        if(s.size()>0){
-            TreeNode* temp=s.top();
-            s.pop();
-            ans=temp->val;
+
+        TreeNode* temp = s.top();
+        s.pop();
+
+        // process right subtree
+        if(temp->right){
+
+            pushLeft(temp->right);
         }
-        return ans;
+
+        return temp->val;
     }
-    
+
     bool hasNext() {
-        return (s.size()>0)?true:false;
+
+        return !s.empty();
     }
 };
-
-/**
- * Your BSTIterator object will be instantiated and called as such:
- * BSTIterator* obj = new BSTIterator(root);
- * int param_1 = obj->next();
- * bool param_2 = obj->hasNext();
- */
