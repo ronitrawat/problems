@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ronitrawat/problems/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0652-find-duplicate-subtrees](https://github.com/ronitrawat/problems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ronitrawat/problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ronitrawat/problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ronitrawat/problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ronitrawat/problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [1776-car-fleet-ii](https://github.com/ronitrawat/problems/tree/master/1776-car-fleet-ii) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
@@ -313,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ronitrawat/problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ronitrawat/problems/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/ronitrawat/problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ronitrawat/problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
