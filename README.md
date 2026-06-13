@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ronitrawat/problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ronitrawat/problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2104-sum-of-subarray-ranges](https://github.com/ronitrawat/problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ronitrawat/problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ronitrawat/problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ronitrawat/problems/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ronitrawat/problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Union Find
 |  |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [1776-car-fleet-ii](https://github.com/ronitrawat/problems/tree/master/1776-car-fleet-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ronitrawat/problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ronitrawat/problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
