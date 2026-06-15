@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ronitrawat/problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/ronitrawat/problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ronitrawat/problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0648-replace-words](https://github.com/ronitrawat/problems/tree/master/0648-replace-words) |
 | [0652-find-duplicate-subtrees](https://github.com/ronitrawat/problems/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ronitrawat/problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/ronitrawat/problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/ronitrawat/problems/tree/master/0443-string-compression) |
+| [0648-replace-words](https://github.com/ronitrawat/problems/tree/master/0648-replace-words) |
 | [0649-dota2-senate](https://github.com/ronitrawat/problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/ronitrawat/problems/tree/master/0680-valid-palindrome-ii) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ronitrawat/problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/ronitrawat/problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0648-replace-words](https://github.com/ronitrawat/problems/tree/master/0648-replace-words) |
 ## String Matching
 |  |
 | ------- |
