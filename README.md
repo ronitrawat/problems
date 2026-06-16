@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ronitrawat/problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1472-design-browser-history](https://github.com/ronitrawat/problems/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronitrawat/problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ronitrawat/problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ronitrawat/problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ronitrawat/problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3731-find-missing-elements](https://github.com/ronitrawat/problems/tree/master/3731-find-missing-elements) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
+| [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronitrawat/problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/ronitrawat/problems/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ronitrawat/problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ronitrawat/problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ronitrawat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ronitrawat/problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ronitrawat/problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
+| [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1776-car-fleet-ii](https://github.com/ronitrawat/problems/tree/master/1776-car-fleet-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ronitrawat/problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ronitrawat/problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
@@ -416,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ronitrawat/problems/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0648-replace-words](https://github.com/ronitrawat/problems/tree/master/0648-replace-words) |
 | [0676-implement-magic-dictionary](https://github.com/ronitrawat/problems/tree/master/0676-implement-magic-dictionary) |
+| [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 ## String Matching
 |  |
 | ------- |
