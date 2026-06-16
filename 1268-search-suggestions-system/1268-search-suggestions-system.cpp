@@ -1,100 +1,65 @@
 class Trie{
 public:
+
     Trie* child[26] = {};
-    bool isEnd;
-
-    Trie(){
-        isEnd = false;
-    }
-
-    void insert(string word){
-
-        Trie* node = this;
-
-        for(char c : word){
-
-            int idx = c - 'a';
-
-            if(node->child[idx] == NULL){
-                node->child[idx] = new Trie();
-            }
-
-            node = node->child[idx];
-        }
-
-        node->isEnd = true;
-    }
+    vector<string> sug;
 };
 
 class Solution {
 public:
 
-    void dfs(Trie* node,
-             string curr,
-             vector<string>& words){
+    Trie* root = new Trie();
 
-        if(words.size() == 3)
-            return;
-
-        if(node->isEnd){
-            words.push_back(curr);
-        }
-
-        for(int i=0;i<26;i++){
-
-            if(node->child[i]){
-
-                dfs(node->child[i],
-                    curr + char('a'+i),
-                    words);
-            }
-        }
-    }
-
-    vector<string> search(Trie* root,
-                          string prefix){
+    void insert(string &word){
 
         Trie* node = root;
 
-        for(char c : prefix){
+        for(char c : word){
 
             int idx = c - 'a';
 
-            if(node->child[idx] == NULL){
-                return {};
-            }
+            if(node->child[idx] == NULL)
+                node->child[idx] = new Trie();
 
             node = node->child[idx];
+
+            if(node->sug.size() < 3)
+                node->sug.push_back(word);
         }
-
-        vector<string> words;
-
-        dfs(node,prefix,words);
-
-        return words;
     }
 
     vector<vector<string>> suggestedProducts(
             vector<string>& products,
             string searchWord) {
 
-        Trie* root = new Trie();
+        sort(products.begin(),
+             products.end());
 
-        for(string product : products){
-            root->insert(product);
+        for(string &word : products){
+            insert(word);
         }
 
         vector<vector<string>> ans;
 
-        string prefix = "";
+        Trie* node = root;
 
         for(char c : searchWord){
 
-            prefix += c;
+            int idx = c - 'a';
 
-            ans.push_back(
-                search(root,prefix)
-            );
+            if(node != NULL &&
+               node->child[idx] != NULL){
+
+                node = node->child[idx];
+
+                ans.push_back(node->sug);
+            }
+            else{
+
+                node = NULL;
+
+                ans.push_back({});
+            }
         }
 
         return ans;
