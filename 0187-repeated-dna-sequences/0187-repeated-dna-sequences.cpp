@@ -1,51 +1,59 @@
-class Trie{
-public:
-
-    Trie* child[4]={};
-
-    int cnt=0;
-};
-
 class Solution {
 public:
-
-    int getIdx(char c){
-
-        if(c=='A') return 0;
-        if(c=='C') return 1;
-        if(c=='G') return 2;
-
-        return 3;
-    }
-
     vector<string> findRepeatedDnaSequences(string s) {
-
-        Trie* root = new Trie();
-
-        vector<string> ans;
 
         int n = s.size();
 
-        for(int i=0;i+9<n;i++){
+        if(n < 10)
+            return {};
 
-            Trie* node = root;
+        unordered_map<char,int> mp = {
+            {'A',0},
+            {'C',1},
+            {'G',2},
+            {'T',3}
+        };
 
-            string cur = s.substr(i,10);
+        unordered_set<int> seen;
+        unordered_set<int> repeated;
 
-            for(char c : cur){
+        vector<string> ans;
 
-                int idx = getIdx(c);
+        int hash = 0;
 
-                if(node->child[idx]==NULL)
-                    node->child[idx]=new Trie();
+        // Build first window of length 10
+        for(int i=0;i<10;i++) {
+            hash <<= 2;
+            hash |= mp[s[i]];
+        }
 
-                node=node->child[idx];
+        seen.insert(hash);
+
+        // Mask keeps only last 20 bits
+        int mask = (1 << 20) - 1;
+
+        for(int i=10;i<n;i++) {
+
+            hash <<= 2;
+
+            hash |= mp[s[i]];
+
+            hash &= mask;
+
+            if(seen.count(hash)) {
+
+                if(!repeated.count(hash)) {
+
+                    ans.push_back(
+                        s.substr(i - 9, 10)
+                    );
+
+                    repeated.insert(hash);
+                }
             }
-
-            node->cnt++;
-
-            if(node->cnt==2)
-                ans.push_back(cur);
+            else {
+                seen.insert(hash);
+            }
         }
 
         return ans;
