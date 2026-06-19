@@ -1,73 +1,118 @@
+class TrieNode{
+public:
+    TrieNode* child[26];
+    int id;
+
+    TrieNode(){
+        memset(child,0,sizeof(child));
+        id=-1;
+    }
+};
+
+class Trie{
+public:
+    TrieNode* root;
+
+    Trie(){
+        root=new TrieNode();
+    }
+
+    void insert(string &s,int idx){
+
+        TrieNode* cur=root;
+
+        for(char c:s){
+
+            int x=c-'a';
+
+            if(!cur->child[x])
+                cur->child[x]=new TrieNode();
+
+            cur=cur->child[x];
+        }
+
+        cur->id=idx;
+    }
+
+    int search(string &s){
+
+        TrieNode* cur=root;
+
+        for(char c:s){
+
+            int x=c-'a';
+
+            if(!cur->child[x])
+                return -1;
+
+            cur=cur->child[x];
+        }
+
+        return cur->id;
+    }
+};
+
 class Solution {
 public:
-    vector<int> findSubstring(string s, vector<string>& words) {
+
+    vector<int> findSubstring(string s,
+                              vector<string>& words) {
 
         vector<int> ans;
 
-        int n = s.size();
+        int n=s.size();
 
-        int wordCount = words.size();
+        int m=words.size();
 
-        if(wordCount==0) return ans;
+        int k=words[0].size();
 
-        int wordLen = words[0].size();
+        Trie trie;
 
-        unordered_map<string,int> target;
+        vector<int> target(m,1);
+
+        unordered_map<string,int> mp;
+
+        int idx=0;
+
+        for(auto &w:words){
+
+            if(!mp.count(w)){
+                mp[w]=idx;
+                trie.insert(w,idx++);
+            }
+        }
+
+        vector<int> freq(idx);
 
         for(auto &w:words)
-            target[w]++;
+            freq[mp[w]]++;
 
-        for(int offset=0;offset<wordLen;offset++){
+        int total=m*k;
 
-            int left = offset;
-            int count = 0;
+        for(int i=0;i+total<=n;i++){
 
-            unordered_map<string,int> window;
+            vector<int> seen(idx,0);
 
-            for(int right=offset;
-                right+wordLen<=n;
-                right+=wordLen){
+            int j=0;
 
-                string word=s.substr(right,wordLen);
+            for(;j<m;j++){
 
-                if(target.count(word)){
+                string cur=
+                s.substr(i+j*k,k);
 
-                    window[word]++;
-                    count++;
+                int id=trie.search(cur);
 
-                    while(window[word] > target[word]){
+                if(id==-1)
+                    break;
 
-                        string leftWord =
-                            s.substr(left,wordLen);
+                seen[id]++;
 
-                        window[leftWord]--;
-
-                        left += wordLen;
-                        count--;
-                    }
-
-                    if(count==wordCount){
-
-                        ans.push_back(left);
-
-                        string leftWord =
-                            s.substr(left,wordLen);
-
-                        window[leftWord]--;
-
-                        left += wordLen;
-                        count--;
-                    }
-                }
-                else{
-
-                    window.clear();
-
-                    count=0;
-
-                    left=right+wordLen;
-                }
+                if(seen[id] > freq[id])
+                    break;
             }
+
+            if(j==m)
+                ans.push_back(i);
         }
 
         return ans;
