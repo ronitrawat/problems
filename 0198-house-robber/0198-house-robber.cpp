@@ -1,15 +1,22 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int prev2 = 0;
-        int prev1 = 0;
-        for (int x : nums) {
-            int take = x + prev2;
-            int skip = prev1;
-            int curr = max(take, skip);
-            prev2 = prev1;
-            prev1 = curr;
+    int solve(vector<int> nums,int i,vector<int>& dp){
+        if(i>=nums.size()){
+            return 0;
         }
-        return prev1;
+
+        if(dp[i]!=-1){
+           return dp[i]; 
+        }
+
+        int include=nums[i]+solve(nums,i+2,dp);
+        int exclude=solve(nums,i+1,dp);
+
+        dp[i]=max(include,exclude);
+        return dp[i];
+    }
+    int rob(vector<int>& nums) {
+        vector<int> dp(nums.size()+1,-1);
+        return solve(nums,0,dp);
     }
 };
