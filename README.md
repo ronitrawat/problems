@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ronitrawat/problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ronitrawat/problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/ronitrawat/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ronitrawat/problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ronitrawat/problems/tree/master/0509-fibonacci-number) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ronitrawat/problems/tree/master/0113-path-sum-ii) |
+| [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
