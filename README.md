@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/ronitrawat/problems/tree/master/0648-replace-words) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ronitrawat/problems/tree/master/0692-top-k-frequent-words) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
 | [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronitrawat/problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ronitrawat/problems/tree/master/0509-fibonacci-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/ronitrawat/problems/tree/master/1143-longest-common-subsequence) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ronitrawat/problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Queue
 |  |
@@ -717,11 +721,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ronitrawat/problems/tree/master/0187-repeated-dna-sequences) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/ronitrawat/problems/tree/master/0187-repeated-dna-sequences) |
 | [0336-palindrome-pairs](https://github.com/ronitrawat/problems/tree/master/0336-palindrome-pairs) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Memoization
 |  |
 | ------- |
