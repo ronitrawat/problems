@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
+| [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
 | [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronitrawat/problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/ronitrawat/problems/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/ronitrawat/problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/ronitrawat/problems/tree/master/0509-fibonacci-number) |
+| [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1776-car-fleet-ii](https://github.com/ronitrawat/problems/tree/master/1776-car-fleet-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ronitrawat/problems/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/ronitrawat/problems/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
