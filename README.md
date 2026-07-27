@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ronitrawat/problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1023-camelcase-matching](https://github.com/ronitrawat/problems/tree/master/1023-camelcase-matching) |
+| [1049-last-stone-weight-ii](https://github.com/ronitrawat/problems/tree/master/1049-last-stone-weight-ii) |
 | [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1472-design-browser-history](https://github.com/ronitrawat/problems/tree/master/1472-design-browser-history) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1049-last-stone-weight-ii](https://github.com/ronitrawat/problems/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/ronitrawat/problems/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
