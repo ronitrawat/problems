@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
+| [0879-profitable-schemes](https://github.com/ronitrawat/problems/tree/master/0879-profitable-schemes) |
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ronitrawat/problems/tree/master/0509-fibonacci-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/ronitrawat/problems/tree/master/0871-minimum-number-of-refueling-stops) |
+| [0879-profitable-schemes](https://github.com/ronitrawat/problems/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1049-last-stone-weight-ii](https://github.com/ronitrawat/problems/tree/master/1049-last-stone-weight-ii) |
