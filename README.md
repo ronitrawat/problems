@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0956-tallest-billboard](https://github.com/ronitrawat/problems/tree/master/0956-tallest-billboard) |
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ronitrawat/problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/ronitrawat/problems/tree/master/0879-profitable-schemes) |
 | [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
+| [0956-tallest-billboard](https://github.com/ronitrawat/problems/tree/master/0956-tallest-billboard) |
 | [1049-last-stone-weight-ii](https://github.com/ronitrawat/problems/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/ronitrawat/problems/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
