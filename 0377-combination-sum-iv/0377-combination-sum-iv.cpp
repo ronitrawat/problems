@@ -2,30 +2,19 @@ class Solution {
 public:
     int combinationSum4(vector<int>& nums, int target) {
 
-        int maxLen = target; // smallest number can be 1
+        vector<unsigned int> dp(target+1,0);
 
-        vector<vector<unsigned int>> dp(maxLen + 1,
-                                        vector<unsigned int>(target + 1, 0));
+        dp[0]=1;
 
-        dp[0][0] = 1;
+        for(int t=1;t<=target;t++){
 
-        for (int len = 1; len <= maxLen; len++) {
+            for(int num:nums){
 
-            for (int sum = 1; sum <= target; sum++) {
-
-                for (int num : nums) {
-
-                    if (num <= sum)
-                        dp[len][sum] += dp[len - 1][sum - num];
-                }
+                if(num<=t)
+                    dp[t]+=dp[t-num];
             }
         }
 
-        unsigned int ans = 0;
-
-        for (int len = 1; len <= maxLen; len++)
-            ans += dp[len][target];
-
-        return ans;
+        return dp[target];
     }
 };
