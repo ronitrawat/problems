@@ -11,46 +11,32 @@
  */
 class Solution {
 public:
-    unordered_map<int,int> m;
-    void mapping(vector<int> inorder){
-     for(int i=0;i<inorder.size();i++){
-        m[inorder[i]]=i;
-     }
-     
+    map<int,int> m;
 
-    }
-    TreeNode* construct(vector<int>  &inorder,vector<int> &preorder,int& preorderIndex,int inorderStart,int inorderEnd){
-        if(preorderIndex>=preorder.size()){
+    TreeNode* build(vector<int> &preorder,int &pStart,int iStart,int iEnd){
+        if(pStart>=preorder.size()){
             return NULL;
         }
-        if(inorderStart>inorderEnd){
+        if(iStart>iEnd){
             return NULL;
         }
-        int element=preorder[preorderIndex++];
+        int element =preorder[pStart++];
         TreeNode* root=new TreeNode(element);
 
-        int inorderIndex=m[element];
+        int idx=m[element];
 
-        root->left=construct(inorder,preorder,preorderIndex,inorderStart,inorderIndex-1);
-        root->right=construct(inorder,preorder,preorderIndex,inorderIndex+1,inorderEnd);
+        root->left=build(preorder,pStart,iStart,idx-1);
+        root->right=build(preorder,pStart,idx+1,iEnd);
 
         return root;
-
-          
-
-
     }
-
-
-
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-     mapping(inorder);
-     int inorderStart=0;
-     int inorderEnd=inorder.size();
-     int preorderIndex=0;
-     
-     TreeNode* root=construct(inorder,preorder,preorderIndex,inorderStart,inorderEnd);
-
-      return root;
+        
+        for(int i=0;i<inorder.size();i++){
+            m[inorder[i]]=i;
+        }
+        int pStart=0;
+        TreeNode* root=build(preorder,pStart,0,inorder.size()-1);
+        return root;
     }
 };
