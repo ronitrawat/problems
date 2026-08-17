@@ -606,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ronitrawat/problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ronitrawat/problems/tree/master/1382-balance-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/ronitrawat/problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -713,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/ronitrawat/problems/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ronitrawat/problems/tree/master/1382-balance-a-binary-search-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/ronitrawat/problems/tree/master/2236-root-equals-sum-of-children) |
 ## Backtracking
 |  |
 | ------- |
