@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ronitrawat/problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ronitrawat/problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ronitrawat/problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ronitrawat/problems/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ronitrawat/problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/ronitrawat/problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ronitrawat/problems/tree/master/0287-find-the-duplicate-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ronitrawat/problems/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronitrawat/problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ronitrawat/problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/ronitrawat/problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ronitrawat/problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/ronitrawat/problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/ronitrawat/problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ronitrawat/problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ronitrawat/problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/ronitrawat/problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ronitrawat/problems/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/ronitrawat/problems/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ronitrawat/problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/ronitrawat/problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ronitrawat/problems/tree/master/0692-top-k-frequent-words) |
@@ -825,4 +829,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ronitrawat/problems/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/ronitrawat/problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
