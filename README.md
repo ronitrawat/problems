@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ronitrawat/problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/ronitrawat/problems/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ronitrawat/problems/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ronitrawat/problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ronitrawat/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/ronitrawat/problems/tree/master/0658-find-k-closest-elements) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ronitrawat/problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ronitrawat/problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/ronitrawat/problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 | [2762-continuous-subarrays](https://github.com/ronitrawat/problems/tree/master/2762-continuous-subarrays) |
 ## Stack
 |  |
@@ -558,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ronitrawat/problems/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -844,4 +849,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/ronitrawat/problems/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
