@@ -1,12 +1,20 @@
 class Solution {
 public:
 
-    void dfs(vector<int> & visited,vector<vector<int>> &graph,int source){
+    void bfs(vector<int> & visited,vector<vector<int>> &graph,int source){
         visited[source]=1;
-        for(int neigh:graph[source]){
-            if(!visited[neigh]){
-                dfs(visited,graph,neigh);
+        queue<int> q;
+        q.push(source);
+        while(!q.empty()){
+            int f=q.front();
+            q.pop();
+            for(int neigh:graph[f]){
+                if(!visited[neigh]){
+                    visited[neigh]++;
+                    q.push(neigh);
+                }
             }
+            
         }
     }
 
@@ -22,7 +30,7 @@ public:
             graph[b].push_back(a);
 
         }
-        dfs(visited,graph,source);
+        bfs(visited,graph,source);
 
         return visited[destination];
     }
