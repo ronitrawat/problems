@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ronitrawat/problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ronitrawat/problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2325-decode-the-message](https://github.com/ronitrawat/problems/tree/master/2325-decode-the-message) |
 | [3731-find-missing-elements](https://github.com/ronitrawat/problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ronitrawat/problems/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/ronitrawat/problems/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ronitrawat/problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Union Find
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ronitrawat/problems/tree/master/0692-top-k-frequent-words) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ronitrawat/problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## String
 |  |
 | ------- |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/ronitrawat/problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/ronitrawat/problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ronitrawat/problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2325-decode-the-message](https://github.com/ronitrawat/problems/tree/master/2325-decode-the-message) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ronitrawat/problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -811,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ronitrawat/problems/tree/master/0509-fibonacci-number) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 ## Database
 |  |
 | ------- |
@@ -884,6 +889,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ronitrawat/problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ronitrawat/problems/tree/master/0802-find-eventual-safe-states) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ronitrawat/problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ronitrawat/problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ronitrawat/problems/tree/master/2360-longest-cycle-in-a-graph) |
 ## Topological Sort
@@ -892,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ronitrawat/problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ronitrawat/problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/ronitrawat/problems/tree/master/0802-find-eventual-safe-states) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ronitrawat/problems/tree/master/2360-longest-cycle-in-a-graph) |
 ## Kosaraju's Algorithm
 |  |
@@ -907,4 +914,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ronitrawat/problems/tree/master/0207-course-schedule) |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ronitrawat/problems/tree/master/1857-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
