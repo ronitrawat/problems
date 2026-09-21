@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-reveal-cards-in-increasing-order](https://github.com/ronitrawat/problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0956-tallest-billboard](https://github.com/ronitrawat/problems/tree/master/0956-tallest-billboard) |
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ronitrawat/problems/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ronitrawat/problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1023-camelcase-matching](https://github.com/ronitrawat/problems/tree/master/1023-camelcase-matching) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ronitrawat/problems/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/ronitrawat/problems/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/ronitrawat/problems/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/ronitrawat/problems/tree/master/0994-rotting-oranges) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ronitrawat/problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 ## Simulation
 |  |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ronitrawat/problems/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/ronitrawat/problems/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ronitrawat/problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/ronitrawat/problems/tree/master/0994-rotting-oranges) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ronitrawat/problems/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ronitrawat/problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/ronitrawat/problems/tree/master/2360-longest-cycle-in-a-graph) |
