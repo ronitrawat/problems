@@ -1,87 +1,87 @@
 class Solution {
 public:
-    void nextSmaller(vector<int>& nums, vector<int>& nextSmall) {
-        stack<int> s;
-        s.push(-1);
-        int n = nums.size();
-
-        for (int i = n-1; i >= 0; i--) {
-            while (s.top()!=-1 && nums[s.top()] >= nums[i]) {
-                s.pop();
-            }
-            nextSmall[i] = s.top();
-            s.push(i);
+void findnextsmall(vector<int> &nextsmall,vector<int> arr){
+     stack<int> st;
+     st.push(-1);
+     for(int i=nextsmall.size()-1;i>=0;i--){
+        while(st.top()!=-1 && arr[i]<arr[st.top()] ){
+            st.pop();
         }
+        nextsmall[i]=st.top();
+        st.push(i);
+     }
     }
-
-    void prevSmaller(vector<int>& nums, vector<int>& prevSmall) {
-        stack<int> s;
-        s.push(-1);
-
-        for (int i = 0; i < nums.size(); i++) {
-            while (s.top()!=-1 && nums[s.top()] > nums[i]) {
-                s.pop();
-            }
-            prevSmall[i] = s.top();
-            s.push(i);
+    void findprevsmall(vector<int> &prevsmall,vector<int> arr){
+       stack<int> st;
+     st.push(-1);
+     for(int i=0;i<prevsmall.size();i++){
+        while(st.top()!=-1 && arr[i]<=arr[st.top()] ){
+            st.pop();
         }
+        prevsmall[i]=st.top();
+        st.push(i);
+     }
     }
-
-    void nextGreater(vector<int>& nums, vector<int>& nextGreat) {
-        stack<int> s;
-        s.push(-1);
-        int n = nums.size();
-
-        for (int i = n-1; i >= 0; i--) {
-            while (s.top()!=-1 && nums[s.top()] <= nums[i]) {
-                s.pop();
-            }
-            nextGreat[i] = s.top();
-            s.push(i);
+     void findnextgreat(vector<int> &nextgreat,vector<int> arr){
+     stack<int> st;
+     st.push(-1);
+     for(int i=nextgreat.size()-1;i>=0;i--){
+        while(st.top()!=-1 && arr[i]>arr[st.top()] ){
+            st.pop();
         }
+        nextgreat[i]=st.top();
+        st.push(i);
+     }
     }
-
-    void prevGreater(vector<int>& nums, vector<int>& prevGreat) {
-        stack<int> s;
-        s.push(-1);
-
-        for (int i = 0; i < nums.size(); i++) {
-            while (s.top()!=-1 && nums[s.top()] < nums[i]) {
-                s.pop();
-            }
-            prevGreat[i] = s.top();
-            s.push(i);
+    void findprevgreat(vector<int> &prevgreat,vector<int> arr){
+       stack<int> st;
+     st.push(-1);
+     for(int i=0;i<prevgreat.size();i++){
+        while(st.top()!=-1 && arr[i]>=arr[st.top()] ){
+            st.pop();
         }
+        prevgreat[i]=st.top();
+        st.push(i);
+     }
     }
-
     long long subArrayRanges(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> nextSmall(n), prevSmall(n), nextGreat(n), prevGreat(n);
+        vector<int> nextgreat(nums.size());
+        vector<int> prevgreat(nums.size());
+        vector<int> nextsmall(nums.size());
+        vector<int> prevsmall(nums.size());
 
-        nextSmaller(nums, nextSmall);
-        prevSmaller(nums, prevSmall);
-        nextGreater(nums, nextGreat);
-        prevGreater(nums, prevGreat);
-
-        for (int i = 0; i < n; i++) {
-            if (nextSmall[i] == -1) nextSmall[i] = n;
-            if (nextGreat[i] == -1) nextGreat[i] = n;
+        findnextsmall(nextsmall,nums);
+        findprevsmall(prevsmall,nums);
+        findprevgreat(prevgreat,nums);
+        findnextgreat(nextgreat,nums);
+        for(int i=0;i<nextsmall.size();i++){
+            if(nextsmall[i]==-1){
+                nextsmall[i]=nextsmall.size();
+            }
         }
-
-        long long minSum = 0, maxSum = 0;
-
-        for (int i = 0; i < n; i++) {
-            long long left = i - prevSmall[i];
-            long long right = nextSmall[i] - i;
-            minSum += nums[i] * left * right;
+        for(int i=0;i<nextgreat.size();i++){
+            if(nextgreat[i]==-1){
+                nextgreat[i]=nextgreat.size();
+            }
         }
+        long long int maxAns=0;
+        for(int i=0;i<nums.size();i++){
+            int left=i-prevgreat[i];
+            int right=nextgreat[i]-i;
 
-        for (int i = 0; i < n; i++) {
-            long long left = i - prevGreat[i];
-            long long right = nextGreat[i] - i;
-            maxSum += nums[i] * left * right;
+            const int MOD = 1e9 + 7;
+
+            maxAns = (maxAns + (long long)nums[i] * left * right) ;
         }
+        long long int minAns=0;
+        for(int i=0;i<nums.size();i++){
+            int left=i-prevsmall[i];
+            int right=nextsmall[i]-i;
 
-        return maxSum - minSum;
+            const int MOD = 1e9 + 7;
+
+            minAns = (minAns + (long long)nums[i] * left * right) ;
+        }
+        return maxAns-minAns;
     }
 };
