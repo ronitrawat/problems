@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ronitrawat/problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
+| [0503-next-greater-element-ii](https://github.com/ronitrawat/problems/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ronitrawat/problems/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/ronitrawat/problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/ronitrawat/problems/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ronitrawat/problems/tree/master/0901-online-stock-span) |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ronitrawat/problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ronitrawat/problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/ronitrawat/problems/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/ronitrawat/problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
