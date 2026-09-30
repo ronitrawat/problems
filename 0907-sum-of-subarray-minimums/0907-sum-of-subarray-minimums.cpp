@@ -1,54 +1,46 @@
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-
-    void nextSmaller(vector<int>& arr, vector<int>& nextAns) {
-        stack<int> s;
-        s.push(-1);
-        int n = arr.size();
-
-        for(int i = n-1; i >= 0; i--) {
-            while(s.top()!=-1 && arr[s.top()] >= arr[i]) {
-                s.pop();
-            }
-            nextAns.push_back(s.top());
-            s.push(i);
+    void findnext(vector<int> &next,vector<int> arr){
+     stack<int> st;
+     st.push(-1);
+     for(int i=next.size()-1;i>=0;i--){
+        while(st.top()!=-1 && arr[i]<arr[st.top()] ){
+            st.pop();
         }
+        next[i]=st.top();
+        st.push(i);
+     }
     }
-
-    void prevSmaller(vector<int>& arr, vector<int>& prevAns) {
-        stack<int> s;
-        s.push(-1);
-        int n = arr.size();
-
-        for(int i = 0; i < n; i++) {
-            while(s.top()!=-1 && arr[s.top()] > arr[i]) {
-                s.pop();
-            }
-            prevAns.push_back(s.top());
-            s.push(i);
+    void findprev(vector<int> &prev,vector<int> arr){
+       stack<int> st;
+     st.push(-1);
+     for(int i=0;i<prev.size();i++){
+        while(st.top()!=-1 && arr[i]<=arr[st.top()] ){
+            st.pop();
         }
+        prev[i]=st.top();
+        st.push(i);
+     }
     }
 
     int sumSubarrayMins(vector<int>& arr) {
-        vector<int> nextAns;
-        vector<int> prevAns;
+        vector<int> next(arr.size());
+        vector<int> prev(arr.size());
 
-        nextSmaller(arr, nextAns);
-        reverse(nextAns.begin(), nextAns.end());
-
-        int n = arr.size();
-        for(int i = 0; i < n; i++) {
-            if(nextAns[i] == -1) nextAns[i] = n;
+        findnext(next,arr);
+        findprev(prev,arr);
+        for(int i=0;i<next.size();i++){
+            if(next[i]==-1){
+                next[i]=next.size();
+            }
         }
+        long long int ans=0;
+        for(int i=0;i<arr.size();i++){
+            int left=i-prev[i];
+            int right=next[i]-i;
 
-        prevSmaller(arr, prevAns);
+            const int MOD = 1e9 + 7;
 
-        long long ans = 0;
-
-        for(int i = 0; i < n; i++) {
-            int left = i - prevAns[i];
-            int right = nextAns[i] - i;
             ans = (ans + (long long)arr[i] * left * right) % MOD;
         }
 
