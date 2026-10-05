@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ronitrawat/problems/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/ronitrawat/problems/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/ronitrawat/problems/tree/master/0791-custom-sort-string) |
+| [0856-score-of-parentheses](https://github.com/ronitrawat/problems/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/ronitrawat/problems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/ronitrawat/problems/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ronitrawat/problems/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/ronitrawat/problems/tree/master/0735-asteroid-collision) |
 | [0853-car-fleet](https://github.com/ronitrawat/problems/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/ronitrawat/problems/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/ronitrawat/problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/ronitrawat/problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ronitrawat/problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -978,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ronitrawat/problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ronitrawat/problems/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ronitrawat/problems/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ronitrawat/problems/tree/master/0856-score-of-parentheses) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
