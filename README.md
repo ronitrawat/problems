@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ronitrawat/problems/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/ronitrawat/problems/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ronitrawat/problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ronitrawat/problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/ronitrawat/problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1023-camelcase-matching](https://github.com/ronitrawat/problems/tree/master/1023-camelcase-matching) |
 | [1049-last-stone-weight-ii](https://github.com/ronitrawat/problems/tree/master/1049-last-stone-weight-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ronitrawat/problems/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/ronitrawat/problems/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/ronitrawat/problems/tree/master/0887-super-egg-drop) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ronitrawat/problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1268-search-suggestions-system](https://github.com/ronitrawat/problems/tree/master/1268-search-suggestions-system) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ronitrawat/problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/ronitrawat/problems/tree/master/1631-path-with-minimum-effort) |
