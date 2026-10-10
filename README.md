@@ -993,4 +993,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ronitrawat/problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
