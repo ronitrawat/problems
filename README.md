@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ronitrawat/problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/ronitrawat/problems/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/ronitrawat/problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/ronitrawat/problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0474-ones-and-zeroes](https://github.com/ronitrawat/problems/tree/master/0474-ones-and-zeroes) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ronitrawat/problems/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ronitrawat/problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ronitrawat/problems/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/ronitrawat/problems/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/ronitrawat/problems/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/ronitrawat/problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ronitrawat/problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ronitrawat/problems/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/ronitrawat/problems/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/ronitrawat/problems/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ronitrawat/problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ronitrawat/problems/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/ronitrawat/problems/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/ronitrawat/problems/tree/master/0494-target-sum) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ronitrawat/problems/tree/master/0410-split-array-largest-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ronitrawat/problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ronitrawat/problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/ronitrawat/problems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -476,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ronitrawat/problems/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ronitrawat/problems/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ronitrawat/problems/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ronitrawat/problems/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/ronitrawat/problems/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ronitrawat/problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/ronitrawat/problems/tree/master/0649-dota2-senate) |
