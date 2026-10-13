@@ -10,22 +10,22 @@
  */
 class Solution {
 public:
-
-    void reverseLinkedList(ListNode* &prev,ListNode* &curr,ListNode* &forward){
-        curr=forward;
-        forward=forward->next;
-        curr->next=prev;
-        prev=curr;
-    }
-
-
     ListNode* reverseList(ListNode* head) {
-        ListNode* prev=NULL;
-        ListNode* curr=prev;
-        ListNode* forward=head;
-        while(forward!=NULL){
-            reverseLinkedList(prev,curr,forward);
+        if(head==NULL || head->next==NULL){
+            return head;
         }
-        return prev;
+        ListNode* prev=NULL;
+        ListNode* curr=NULL;
+        ListNode* forw=head;
+
+        while(forw){
+            curr=forw;
+            forw=forw->next;
+            curr->next=prev;
+            prev=curr;
+
+        }
+        return curr;
+
     }
 };
