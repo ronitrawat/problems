@@ -1,37 +1,60 @@
+
+
 class Solution {
 public:
+    class dsu{
+        private:
+             vector<int> parent;
+             vector<int> rank;
 
-    void bfs(vector<int> & visited,vector<vector<int>> &graph,int source){
-        visited[source]=1;
-        queue<int> q;
-        q.push(source);
-        while(!q.empty()){
-            int f=q.front();
-            q.pop();
-            for(int neigh:graph[f]){
-                if(!visited[neigh]){
-                    visited[neigh]++;
-                    q.push(neigh);
+        public:
+             dsu(int n){
+                parent.resize(n);
+                rank.resize(n,1);
+                for(int i=0;i<n;i++){
+                    parent[i]=i;
                 }
-            }
-            
-        }
-    }
+             }
+
+             int find(int node){
+                if(parent[node]==node){
+                    return node;
+                }
+                return parent[node]=find(parent[node]);
+             }
+
+
+             void union_rank(int a,int b){
+                int leader_a=find(a);
+                int leader_b=find(b);
+
+                if(leader_a!=leader_b){
+                    if(rank[leader_b]<rank[leader_a]){
+                        parent[leader_b]=leader_a;
+                        rank[leader_a]+=rank[leader_b];
+                    }
+                    else{
+                        parent[leader_a]=leader_b;
+                        rank[leader_b]+=rank[leader_a];
+                    }
+                }
+             }
+    };
+
+    
 
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        vector<vector<int>> graph(n);
-        vector<int> visited(n,0);
+        dsu d(n);
 
         for(int i=0;i<edges.size();i++){
             int a =edges[i][0];
             int b=edges[i][1];
 
-            graph[a].push_back(b);
-            graph[b].push_back(a);
+           d.union_rank(a,b);
 
         }
-        bfs(visited,graph,source);
+        
 
-        return visited[destination];
+        return d.find(source)==d.find(destination);
     }
 };
